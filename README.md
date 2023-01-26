@@ -1,5 +1,4 @@
 # BlueTeam-Comp-Arsenal
-
 This is a repository of useful automation tools and scripts.
 
-The competitions behind what this repository is backing up will be updated after the event.
+These are not particularly design for modern business environments, the focus behind these were built around active red team versus blue team competitions.
